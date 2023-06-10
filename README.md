@@ -1,3 +1,3 @@
-run dev- npm run dev
-run build- npm run build
-run jest - npm run watch
+npm run dev;
+npm run build;
+npm run watch (jest)
